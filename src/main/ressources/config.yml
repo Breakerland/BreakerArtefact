@@ -1,0 +1,8 @@
+database:
+  backend: sqlite
+  sqlite: playerArtefacts.db
+  host: localhost
+  port: 3306
+  database: artefact
+  user: user
+  password: password

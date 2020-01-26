@@ -1,0 +1,9 @@
+name: Artefact
+version: 1.1
+authors: [AlexRex_, LLIcocoman_Hrz]
+main: fr.breakerland.artefact.ArtefactPlugin
+api-version: 1.15
+commands:
+  artefact:
+    description: Open the GUI artefact
+    permission: artefact.gui
